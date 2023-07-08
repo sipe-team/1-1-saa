@@ -1,6 +1,7 @@
 # 1-1-saa
 - AWS Certified Solutions Architect - Associate C03 자격증
-![aws saa](https://github.com/sipe-team/1-1-saa/assets/92839864/74b1e839-94fd-49bb-8c78-cce512162276)
+
+![image](https://github.com/sipe-team/1-1-saa/assets/92839864/13e56346-b120-412a-ba19-ce64d579b652)
 
 <br/>
 
