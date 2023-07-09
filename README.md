@@ -5,7 +5,7 @@
 
 <br/>
 
-- `인원` : 김민준, 강민주, 배진수, 권설민, 이정민, 임성후
+- `멤버` : [김민준](https://github.com/Me1e/), [강민주](https://github.com/kkangmj), [배진수](https://github.com/naru200/), [권설민](https://github.com/stat-kwon), [이정민](https://github.com/danmin20/), [임성후](https://github.com/hugehoo/)
 - `목적` : SAA 시험 응시를 통한 AWS 지식 함양 및 공인 자격증 취득으로 가시적인 성과 도출
 - `공부 방법` : 유데미 강의 수강 및 덤프 
 
