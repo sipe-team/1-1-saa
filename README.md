@@ -22,6 +22,6 @@
 <hr/>
 
 ### reference
-- 강의는 선택, 예약은 필수
+- 강의는 선택, 시험 예약은 필수
 - [Examtopics](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c03/view/)
 - [UDEMY : AWS Certified Solutions Architect Associate 시험합격!](https://www.udemy.com/course/best-aws-certified-solutions-architect-associate/)
